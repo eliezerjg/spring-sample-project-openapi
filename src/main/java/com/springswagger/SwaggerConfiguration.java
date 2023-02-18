@@ -1,4 +1,4 @@
-package com.springswagger.springswagger;
+package com.springswagger;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
