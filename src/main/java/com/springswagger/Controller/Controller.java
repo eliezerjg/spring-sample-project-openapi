@@ -1,4 +1,4 @@
-package com.springswagger;
+package com.springswagger.Controller;
 
 import com.springswagger.DTO.PessoaDTO;
 import com.springswagger.Service.PessoaSE;
