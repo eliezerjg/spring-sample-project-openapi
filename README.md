@@ -37,6 +37,3 @@ public class ExemploController {
 
 <h2>Contribuindo</h2>
 Contribuições são sempre bem-vindas! Se você encontrar algum problema ou tiver alguma sugestão de melhoria, abra uma issue ou envie um pull request.
-
-<h2>Licença</h2>
-Esse projeto é licenciado sob a licença MIT. Consulte o arquivo LICENSE para mais informações.
