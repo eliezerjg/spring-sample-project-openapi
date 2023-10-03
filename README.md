@@ -1,5 +1,5 @@
-<h1>Projeto de Documentação Utilizando Spring Boot e Spring Fox</h1>
-Esse é um projeto de exemplo que utiliza a biblioteca Spring Fox para gerar documentação automática de APIs em uma aplicação Spring Boot.
+<h1>Projeto de Documentação Utilizando Spring Boot e Open API documentation Imple.</h1>
+Esse é um projeto de exemplo que utiliza a biblioteca Spring Fox / Spring Doc para gerar documentação automática de APIs em uma aplicação Spring Boot.
 
 <h2>Tecnologias Utilizadas</h2>
 Java 20
