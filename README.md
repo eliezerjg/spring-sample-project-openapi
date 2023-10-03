@@ -2,9 +2,9 @@
 Esse é um projeto de exemplo que utiliza a biblioteca Spring Fox para gerar documentação automática de APIs em uma aplicação Spring Boot.
 
 <h2>Tecnologias Utilizadas</h2>
-Java 19
+Java 20
 Spring Boot
-Spring Fox (Swagger Documentation)
+Spring Fox / Spring Doc (Swagger Documentation)
 Maven
 Instalação
 Clone o repositório.
